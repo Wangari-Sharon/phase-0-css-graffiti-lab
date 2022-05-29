@@ -1,1 +1,25 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    background-color: black;
+  }
+#tag-3 {
+font-size: small;
+border: 2px;
+padding: 30px;
+}
+
+.tag-4 {
+    position: relative;
+    top: 20;
+    left: 20;
+    width: 800px;
+    height: 600px;
+}
+
+.tag-3 {
+    page-break-inside: auto;
+    margin-top: top;
+    margin-left: auto;
+}
+
